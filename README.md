@@ -1,4 +1,4 @@
-# Projeto: Sistema de Gestão de Projetos
+# Projeto: Sistema de Biblioteca Virtual
 
 ## Disciplina: Tópicos Especiais em Programação
 
@@ -26,7 +26,7 @@ O projeto foi desenvolvido utilizando a metodologia **Scrum** , com organizaçã
 
 ## Funcionalidades Implementadas
 
-- Cadastro e autenticação de usuários.
+- Cadastro de usuarios
 - CRUD completo para usuários, projetos e tarefas.
 - Interface responsiva com **Bootstrap**.
 - Proteção contra **CSRF**.
